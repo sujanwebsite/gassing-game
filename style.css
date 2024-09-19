@@ -1,0 +1,82 @@
+.playertwo{
+    display:none;
+}
+.inputtwo{
+    display:none;
+}
+.buttontwo{
+    display:none;
+}
+.error2{
+    display:none;
+}
+
+.namber1 {
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: center; 
+    height: 80vh; 
+    text-align: center; 
+    background-color: aqua;
+}
+
+.buttonone {
+    padding: 10px 20px; 
+    border: none; 
+    border-radius: 4px; 
+    background-color: #28a745; 
+    color: white; 
+    font-size: 16px; 
+    cursor: pointer; 
+    transition: background-color 0.3s ease; 
+}
+
+.buttonone:hover {
+    background-color: #218838; 
+}
+.inputone{
+    margin-bottom:10px;
+    padding:10px;
+    border:1px solid #ccc;
+    border-radius:15px;
+    box-shadow:0 4px 8px rgba(0,0,0,0.1);
+}
+
+.inputtwo {
+    margin-bottom: 10px; 
+}
+
+.buttontwo {
+    padding: 10px 20px; 
+    border: none; 
+    border-radius: 4px; 
+    background-color: #007bff; 
+    color: white; 
+    font-size: 16px; 
+    cursor: pointer; 
+    transition: background-color 0.3s ease; 
+    margin-top: 10px; 
+}
+
+.buttontwo:hover {
+    background-color: #0056b3; 
+}
+
+.inputtwo{
+    margin-bottom:10px;
+    padding:10px;
+    border:1px solid #ccc;
+    border-radius:15px;
+    box-shadow:0 4px 8px rgba(0,0,0,0.1);
+}
+
+.winner{
+    color:green;
+    font-weight:bold;
+}
+
+
+
+
+
